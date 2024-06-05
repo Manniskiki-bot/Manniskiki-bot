@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Manniskiki-bot
+- 👋 Hi, I’m @Mary
 - 👀 I’m interested in Technology.
 - 🌱 I’m currently learning Front End and Back End development.
 - 💞️ I’m looking to collaborate on creating creative websites and systems.
-- 📫 How to reach me manniskiki@gmail.com
+- 📫 How to reach me kinyanjui816@gmail.com
 
 <!---
 Manniskiki-bot/Manniskiki-bot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
